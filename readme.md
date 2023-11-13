@@ -5,8 +5,6 @@ Basic express.js project with basic routes:
 * Joi
 * Fs
 
-&nbsp;
-
 ---
 
 ## URL
